@@ -12,6 +12,7 @@ function App() {
       <Banner/>
       <RowPost url={originals} title='Netflix Originals'/>
       <RowPost url={action} title='Action' isSmall />
+      <RowPost url={action} title='Action' isSmall />
     </div>
   )
 }
